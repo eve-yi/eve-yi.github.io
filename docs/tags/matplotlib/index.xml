@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>matplotlib on My blog</title>
+    <link>https://eve-yi.github.io/tags/matplotlib/</link>
+    <description>Recent content in matplotlib on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 07 Oct 2023 13:57:51 +0800</lastBuildDate><atom:link href="https://eve-yi.github.io/tags/matplotlib/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>画布</title>
+      <link>https://eve-yi.github.io/2023/10/%E7%94%BB%E5%B8%83/</link>
+      <pubDate>Sat, 07 Oct 2023 13:57:51 +0800</pubDate>
+      
+      <guid>https://eve-yi.github.io/2023/10/%E7%94%BB%E5%B8%83/</guid>
+      <description>&lt;p&gt;图片和画布的建立、子图位置的布局&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
